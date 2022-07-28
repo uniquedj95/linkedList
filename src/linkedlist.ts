@@ -1,5 +1,19 @@
-import { Node } from './node';
+/*
+* @class Node
+*/
+export class Node {
+  public value: any;
+  public next?: Node | null;
 
+  constructor(value: any) {
+    this.value = value;
+    this.next = null;
+  }
+}
+
+/**
+ * @class LinkedList * 
+ */
 export class LinkedList {
   public head?: Node | null;
   public tail?: Node | null;
