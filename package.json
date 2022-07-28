@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "name": "linkedlist",
+  "description": "a linked list module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Justin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniquedj95/linkedList.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniquedj95/linkedList/issues"
+  },
+  "homepage": "https://github.com/uniquedj95/linkedList#readme"
+}
