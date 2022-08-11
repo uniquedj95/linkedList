@@ -128,7 +128,6 @@ export class LinkedList {
       this.tail = undefined;
     }
 
-    return temp;
   }
 
   /**
